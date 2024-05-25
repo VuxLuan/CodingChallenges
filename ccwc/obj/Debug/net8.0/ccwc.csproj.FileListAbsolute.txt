@@ -1,0 +1,14 @@
+/Users/luanvu/Code/CodingChallenges/ccwc/bin/Debug/net8.0/ccwc
+/Users/luanvu/Code/CodingChallenges/ccwc/bin/Debug/net8.0/ccwc.deps.json
+/Users/luanvu/Code/CodingChallenges/ccwc/bin/Debug/net8.0/ccwc.runtimeconfig.json
+/Users/luanvu/Code/CodingChallenges/ccwc/bin/Debug/net8.0/ccwc.dll
+/Users/luanvu/Code/CodingChallenges/ccwc/bin/Debug/net8.0/ccwc.pdb
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.AssemblyInfoInputs.cache
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.AssemblyInfo.cs
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.csproj.CoreCompileInputs.cache
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.dll
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/refint/ccwc.dll
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.pdb
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ccwc.genruntimeconfig.cache
+/Users/luanvu/Code/CodingChallenges/ccwc/obj/Debug/net8.0/ref/ccwc.dll
