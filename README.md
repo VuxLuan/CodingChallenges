@@ -1,0 +1,2 @@
+Coding challenge aimed at helping me level up my software engineers skills through deliberate practice.
+These are challenges that I’ve used or am using as exercises to learn a new programming language or technology.
