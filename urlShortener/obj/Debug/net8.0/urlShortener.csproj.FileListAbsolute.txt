@@ -1,8 +1,0 @@
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.csproj.AssemblyReference.cache
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.GeneratedMSBuildEditorConfig.editorconfig
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.AssemblyInfoInputs.cache
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.AssemblyInfo.cs
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.csproj.CoreCompileInputs.cache
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.MvcApplicationPartsAssemblyInfo.cs
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.MvcApplicationPartsAssemblyInfo.cache
-/Users/luanvu/Code/CodingChallenges/urlShortener/obj/Debug/net8.0/urlShortener.sourcelink.json
